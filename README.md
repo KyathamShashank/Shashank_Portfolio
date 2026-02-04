@@ -2,7 +2,7 @@
 
 *Automatically synced with your [v0.app](https://v0.app) deployments*
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/shashank-projects/v0-pavan-portfolio)
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/shashank-projects/v0-shashank-portfolio)
 [![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/smg8gemaUyr)
 
 ## Overview
@@ -14,7 +14,7 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://vercel.com/pavansotis-projects/v0-pavan-portfolio](https://vercel.com/pavansotis-projects/v0-pavan-portfolio)**
+**[https://vercel.com/shashank-projects/v0-shashank-portfolio](https://vercel.com/shashank-projects/v0-shashank-portfolio)**
 
 ## Build your app
 
